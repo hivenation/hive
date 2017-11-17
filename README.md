@@ -1,2 +1,2 @@
 # hive
-Community manager for Devs By Devs
+Community manager from Devs By Devs
